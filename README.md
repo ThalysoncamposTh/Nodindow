@@ -3,6 +3,14 @@
 ## About
 Nodindow is a tool designed to help users organize and manage application windows on their desktop efficiently, providing a more organized and productive environment.
 
+## Watch the demo video
+
+You can see the application demonstration video here:
+
+[![Watch the video](https://img.youtube.com/vi/QsxQkTQM99g/maxresdefault.jpg)](https://www.youtube.com/watch?v=QsxQkTQM99g)
+
+**Link to video:** [Watch the demonstration video](https://www.youtube.com/watch?v=QsxQkTQM99g)
+
 ## Organize your desktop with Nodindow
 
 If you have many applications open and want an efficient way to organize your desktop, Nodindow is the perfect solution for you! It was developed to help keep your work environment cleaner and more organized.
