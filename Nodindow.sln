@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodindow", "Nodindow\Nodindow.csproj", "{49D4CA6C-AE5B-4FDA-AF96-AA7169039889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D4CA6C-AE5B-4FDA-AF96-AA7169039889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D4CA6C-AE5B-4FDA-AF96-AA7169039889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D4CA6C-AE5B-4FDA-AF96-AA7169039889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D4CA6C-AE5B-4FDA-AF96-AA7169039889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC994334-8CAD-4B0A-A1CF-715A41FAC594}
+	EndGlobalSection
+EndGlobal
